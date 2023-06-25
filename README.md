@@ -18,4 +18,4 @@
 ## Languages Proficiency
 
 ### C | Challenges : 19/25 | Points: 365 | Rank: 57862
-- [Introduction]()
+- [Introduction](https://github.com/Youssef1502/HackerRank/tree/main/C/Introduction)
